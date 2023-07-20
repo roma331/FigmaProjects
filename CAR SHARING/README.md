@@ -9,7 +9,7 @@ This Figma project is about car sharing. It includes a main page, details about 
 
 
 
-![Screenshot](Slide16_9.png)
+![Screenshot](Slide16_9.png=250x250)
 
 
 
