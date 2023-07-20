@@ -26,7 +26,7 @@ Rest of the images:
 
 To view and interact with the car sharing designs in Figma, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/roma331/FigmaProjects/tree/main/CAR%20SHARING`
+1. Clone the repository: `git clone https://github.com/roma331/FigmaProjects/tree/main/CAR_SHARING`
 2. Open Figma and create a new project.
 3. Import the project files from your local repository.
 
