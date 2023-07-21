@@ -7,10 +7,10 @@
 
 This Figma project is about Managing smart home devices . It uncludes a main page where you manually scroll to the right and select mode (one of four).
 
-<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/WorkingMode.png" alt="alt text" width="60%" height="60%">
-<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/SleepingMode.png" alt="alt text" width="60%" height="60%">
-<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/LearningMode.png" alt="alt text" width="60%" height="60%">
-<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/EatingMode.png" alt="alt text" width="60%" height="60%">
+<img src="https://github.com/roma331/FigmaProjects/blob/main/SmartHomeApp/WorkingMode.png" alt="alt text" width="30%" height="30%">
+<img src="https://github.com/roma331/FigmaProjects/blob/main/SmartHomeApp/SleepingMode.png" alt="alt text" width="30%" height="30%">
+<img src="https://github.com/roma331/FigmaProjects/blob/main/SmartHomeApp/LearningMode.png" alt="alt text" width="30%" height="30%">
+<img src="https://github.com/roma331/FigmaProjects/blob/main/SmartHomeApp/EatingMode.png" alt="alt text" width="30%" height="30%">
 
 
 
