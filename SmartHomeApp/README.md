@@ -24,6 +24,4 @@ To view and interact with the car sharing designs in Figma, follow these steps:
 
 ## License
 
-I am not the owner of the photos and the project was created for educational purposes only. 
-
-The information is not true, the images were taken from Figma Plugins and the download is free.
+Thw images I used in project were taken from Figma Plugins and the download is free.
