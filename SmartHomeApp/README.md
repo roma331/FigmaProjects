@@ -1,0 +1,29 @@
+
+# Smart Home App
+
+
+## Overview
+
+
+This Figma project is about Managing smart home devices . It uncludes a main page where you manually scroll to the right and select mode (one of four).
+
+<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/WorkingMode.png" alt="alt text" width="60%" height="60%">
+<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/SleepingMode.png" alt="alt text" width="60%" height="60%">
+<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/LearningMode.png" alt="alt text" width="60%" height="60%">
+<img src="https://https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp/EatingMode.png" alt="alt text" width="60%" height="60%">
+
+
+
+## Usage
+
+To view and interact with the car sharing designs in Figma, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/roma331/FigmaProjects/tree/main/SmartHomeApp`
+2. Open Figma and create a new project.
+3. Import the project files from your local repository.
+
+## License
+
+I am not the owner of the photos and the project was created for educational purposes only. 
+
+The information is not true, the images were taken from Figma Plugins and the download is free.
